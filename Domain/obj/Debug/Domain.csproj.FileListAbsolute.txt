@@ -1,0 +1,19 @@
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\SupportCenter\Domain\bin\Debug\SC.BL.Domain.dll
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\SupportCenter\Domain\bin\Debug\SC.BL.Domain.pdb
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\SupportCenter\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\SupportCenter\Domain\obj\Debug\SC.BL.Domain.dll
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\SupportCenter\Domain\obj\Debug\SC.BL.Domain.pdb
+\\Mac\Home\Documents\GitHubVisualStudio\SupportCenter\Domain\bin\Debug\SC.BL.Domain.dll
+\\Mac\Home\Documents\GitHubVisualStudio\SupportCenter\Domain\bin\Debug\SC.BL.Domain.pdb
+\\Mac\Home\Documents\GitHubVisualStudio\SupportCenter\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\GitHubVisualStudio\SupportCenter\Domain\obj\Debug\SC.BL.Domain.dll
+\\Mac\Home\Documents\GitHubVisualStudio\SupportCenter\Domain\obj\Debug\SC.BL.Domain.pdb
+\\Mac\Home\Downloads\SupportCenter-master-2\Domain\bin\Debug\SC.BL.Domain.dll
+\\Mac\Home\Downloads\SupportCenter-master-2\Domain\bin\Debug\SC.BL.Domain.pdb
+\\Mac\Home\Downloads\SupportCenter-master-2\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\SupportCenter-master-2\Domain\obj\Debug\SC.BL.Domain.dll
+\\Mac\Home\Downloads\SupportCenter-master-2\Domain\obj\Debug\SC.BL.Domain.pdb
+\\Mac\Home\Downloads\SupportCenter-master-2\Domain\bin\Debug\EntityFramework.dll
+\\Mac\Home\Downloads\SupportCenter-master-2\Domain\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Downloads\SupportCenter-master-2\Domain\bin\Debug\EntityFramework.xml
+\\Mac\Home\Downloads\SupportCenter-master-2\Domain\bin\Debug\EntityFramework.SqlServer.xml

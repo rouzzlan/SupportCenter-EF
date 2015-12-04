@@ -1,0 +1,25 @@
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\SupportCenter\DAL\bin\Debug\SC.DAL.dll
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\SupportCenter\DAL\bin\Debug\SC.DAL.pdb
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\SupportCenter\DAL\bin\Debug\SC.BL.Domain.dll
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\SupportCenter\DAL\bin\Debug\SC.BL.Domain.pdb
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\SupportCenter\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\SupportCenter\DAL\obj\Debug\SC.DAL.dll
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\SupportCenter\DAL\obj\Debug\SC.DAL.pdb
+\\Mac\Home\Documents\GitHubVisualStudio\SupportCenter\DAL\bin\Debug\SC.DAL.dll
+\\Mac\Home\Documents\GitHubVisualStudio\SupportCenter\DAL\bin\Debug\SC.DAL.pdb
+\\Mac\Home\Documents\GitHubVisualStudio\SupportCenter\DAL\bin\Debug\SC.BL.Domain.dll
+\\Mac\Home\Documents\GitHubVisualStudio\SupportCenter\DAL\bin\Debug\SC.BL.Domain.pdb
+\\Mac\Home\Documents\GitHubVisualStudio\SupportCenter\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\GitHubVisualStudio\SupportCenter\DAL\obj\Debug\SC.DAL.dll
+\\Mac\Home\Documents\GitHubVisualStudio\SupportCenter\DAL\obj\Debug\SC.DAL.pdb
+\\Mac\Home\Downloads\SupportCenter-master-2\DAL\bin\Debug\SC.DAL.dll
+\\Mac\Home\Downloads\SupportCenter-master-2\DAL\bin\Debug\SC.DAL.pdb
+\\Mac\Home\Downloads\SupportCenter-master-2\DAL\bin\Debug\EntityFramework.dll
+\\Mac\Home\Downloads\SupportCenter-master-2\DAL\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Downloads\SupportCenter-master-2\DAL\bin\Debug\SC.BL.Domain.dll
+\\Mac\Home\Downloads\SupportCenter-master-2\DAL\bin\Debug\SC.BL.Domain.pdb
+\\Mac\Home\Downloads\SupportCenter-master-2\DAL\bin\Debug\EntityFramework.xml
+\\Mac\Home\Downloads\SupportCenter-master-2\DAL\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Downloads\SupportCenter-master-2\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\SupportCenter-master-2\DAL\obj\Debug\SC.DAL.dll
+\\Mac\Home\Downloads\SupportCenter-master-2\DAL\obj\Debug\SC.DAL.pdb

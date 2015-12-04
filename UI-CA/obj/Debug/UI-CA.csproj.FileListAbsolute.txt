@@ -1,0 +1,40 @@
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\SupportCenter\UI-CA\bin\Debug\SC.UI.CA.exe.config
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\SupportCenter\UI-CA\bin\Debug\SC.UI.CA.exe
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\SupportCenter\UI-CA\bin\Debug\SC.UI.CA.pdb
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\SupportCenter\UI-CA\bin\Debug\SC.BL.dll
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\SupportCenter\UI-CA\bin\Debug\SC.BL.Domain.dll
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\SupportCenter\UI-CA\bin\Debug\SC.DAL.dll
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\SupportCenter\UI-CA\bin\Debug\SC.BL.pdb
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\SupportCenter\UI-CA\bin\Debug\SC.BL.Domain.pdb
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\SupportCenter\UI-CA\bin\Debug\SC.DAL.pdb
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\SupportCenter\UI-CA\obj\Debug\UI-CA.csprojResolveAssemblyReference.cache
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\SupportCenter\UI-CA\obj\Debug\SC.UI.CA.exe
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\SupportCenter\UI-CA\obj\Debug\SC.UI.CA.pdb
+\\Mac\Home\Documents\GitHubVisualStudio\SupportCenter\UI-CA\bin\Debug\SC.UI.CA.exe.config
+\\Mac\Home\Documents\GitHubVisualStudio\SupportCenter\UI-CA\obj\Debug\SC.UI.CA.exe
+\\Mac\Home\Documents\GitHubVisualStudio\SupportCenter\UI-CA\obj\Debug\SC.UI.CA.pdb
+\\Mac\Home\Documents\GitHubVisualStudio\SupportCenter\UI-CA\bin\Debug\SC.UI.CA.exe
+\\Mac\Home\Documents\GitHubVisualStudio\SupportCenter\UI-CA\bin\Debug\SC.UI.CA.pdb
+\\Mac\Home\Documents\GitHubVisualStudio\SupportCenter\UI-CA\bin\Debug\SC.BL.dll
+\\Mac\Home\Documents\GitHubVisualStudio\SupportCenter\UI-CA\bin\Debug\SC.BL.Domain.dll
+\\Mac\Home\Documents\GitHubVisualStudio\SupportCenter\UI-CA\bin\Debug\SC.DAL.dll
+\\Mac\Home\Documents\GitHubVisualStudio\SupportCenter\UI-CA\bin\Debug\SC.BL.pdb
+\\Mac\Home\Documents\GitHubVisualStudio\SupportCenter\UI-CA\bin\Debug\SC.BL.Domain.pdb
+\\Mac\Home\Documents\GitHubVisualStudio\SupportCenter\UI-CA\bin\Debug\SC.DAL.pdb
+\\Mac\Home\Documents\GitHubVisualStudio\SupportCenter\UI-CA\obj\Debug\UI-CA.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\SupportCenter-master-2\UI-CA\bin\Debug\SC.UI.CA.exe.config
+\\Mac\Home\Downloads\SupportCenter-master-2\UI-CA\obj\Debug\SC.UI.CA.exe
+\\Mac\Home\Downloads\SupportCenter-master-2\UI-CA\obj\Debug\SC.UI.CA.pdb
+\\Mac\Home\Downloads\SupportCenter-master-2\UI-CA\bin\Debug\SC.UI.CA.exe
+\\Mac\Home\Downloads\SupportCenter-master-2\UI-CA\bin\Debug\SC.UI.CA.pdb
+\\Mac\Home\Downloads\SupportCenter-master-2\UI-CA\bin\Debug\SC.BL.dll
+\\Mac\Home\Downloads\SupportCenter-master-2\UI-CA\bin\Debug\SC.BL.Domain.dll
+\\Mac\Home\Downloads\SupportCenter-master-2\UI-CA\bin\Debug\SC.DAL.dll
+\\Mac\Home\Downloads\SupportCenter-master-2\UI-CA\bin\Debug\EntityFramework.dll
+\\Mac\Home\Downloads\SupportCenter-master-2\UI-CA\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Downloads\SupportCenter-master-2\UI-CA\bin\Debug\SC.BL.pdb
+\\Mac\Home\Downloads\SupportCenter-master-2\UI-CA\bin\Debug\SC.BL.Domain.pdb
+\\Mac\Home\Downloads\SupportCenter-master-2\UI-CA\bin\Debug\SC.DAL.pdb
+\\Mac\Home\Downloads\SupportCenter-master-2\UI-CA\bin\Debug\EntityFramework.xml
+\\Mac\Home\Downloads\SupportCenter-master-2\UI-CA\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Downloads\SupportCenter-master-2\UI-CA\obj\Debug\UI-CA.csprojResolveAssemblyReference.cache

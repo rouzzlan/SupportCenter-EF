@@ -1,0 +1,31 @@
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\SupportCenter\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\SupportCenter\BL\bin\Debug\SC.BL.dll
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\SupportCenter\BL\bin\Debug\SC.BL.pdb
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\SupportCenter\BL\bin\Debug\SC.BL.Domain.dll
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\SupportCenter\BL\bin\Debug\SC.DAL.dll
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\SupportCenter\BL\bin\Debug\SC.DAL.pdb
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\SupportCenter\BL\bin\Debug\SC.BL.Domain.pdb
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\SupportCenter\BL\obj\Debug\SC.BL.dll
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\SupportCenter\BL\obj\Debug\SC.BL.pdb
+\\Mac\Home\Documents\GitHubVisualStudio\SupportCenter\BL\bin\Debug\SC.BL.dll
+\\Mac\Home\Documents\GitHubVisualStudio\SupportCenter\BL\bin\Debug\SC.BL.pdb
+\\Mac\Home\Documents\GitHubVisualStudio\SupportCenter\BL\bin\Debug\SC.BL.Domain.dll
+\\Mac\Home\Documents\GitHubVisualStudio\SupportCenter\BL\bin\Debug\SC.DAL.dll
+\\Mac\Home\Documents\GitHubVisualStudio\SupportCenter\BL\bin\Debug\SC.DAL.pdb
+\\Mac\Home\Documents\GitHubVisualStudio\SupportCenter\BL\bin\Debug\SC.BL.Domain.pdb
+\\Mac\Home\Documents\GitHubVisualStudio\SupportCenter\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\GitHubVisualStudio\SupportCenter\BL\obj\Debug\SC.BL.dll
+\\Mac\Home\Documents\GitHubVisualStudio\SupportCenter\BL\obj\Debug\SC.BL.pdb
+\\Mac\Home\Downloads\SupportCenter-master-2\BL\bin\Debug\SC.BL.dll
+\\Mac\Home\Downloads\SupportCenter-master-2\BL\bin\Debug\SC.BL.pdb
+\\Mac\Home\Downloads\SupportCenter-master-2\BL\bin\Debug\SC.BL.Domain.dll
+\\Mac\Home\Downloads\SupportCenter-master-2\BL\bin\Debug\SC.DAL.dll
+\\Mac\Home\Downloads\SupportCenter-master-2\BL\bin\Debug\EntityFramework.dll
+\\Mac\Home\Downloads\SupportCenter-master-2\BL\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Downloads\SupportCenter-master-2\BL\bin\Debug\SC.DAL.pdb
+\\Mac\Home\Downloads\SupportCenter-master-2\BL\bin\Debug\SC.BL.Domain.pdb
+\\Mac\Home\Downloads\SupportCenter-master-2\BL\bin\Debug\EntityFramework.xml
+\\Mac\Home\Downloads\SupportCenter-master-2\BL\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Downloads\SupportCenter-master-2\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\SupportCenter-master-2\BL\obj\Debug\SC.BL.dll
+\\Mac\Home\Downloads\SupportCenter-master-2\BL\obj\Debug\SC.BL.pdb
